@@ -1,2 +1,3 @@
 print("Hello, Boris Igorevich!")
 print("Hope you're doing great!")
+#а теперь я напишу все на C
