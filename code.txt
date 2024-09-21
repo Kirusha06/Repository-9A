@@ -1,3 +1,6 @@
-print("Hello, Boris Igorevich!")
-print("Hope you're doing great!")
-#а теперь я напишу все на C
+#include <stdio.h>
+
+int main(){
+printf("Hello, Boris Igorevich!\n");
+return 0;
+}
