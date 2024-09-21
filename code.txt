@@ -1,2 +1,4 @@
 print("Hello, Boris Igorevich!")
 print("Hope you're doing great!")
+a = int(input("a="))
+b = int(input("b="))
